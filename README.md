@@ -5,7 +5,7 @@
 ## Sobre Mim
 - Nome: Rafael Pereira Galhardo
 - Profissão: Inspetor de Qualidade
-- Iniciando na Programação: Python, C, HTML, JavaScript, Java
+- Iniciando na Programação: Python, C, HTML, JavaScript, Java ,Cypress
 
 ## Objetivo
 Meu objetivo é adquirir experiência prática em desenvolvimento, tanto no front-end quanto no back-end, e estou em busca de oportunidades de estágio para aplicar meus conhecimentos e continuar aprendendo.
