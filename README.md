@@ -1,60 +1,85 @@
-# Rafael Pereira Galhardo
+<h1 align="center">Rafael Pereira Galhardo</h1>
 
-👋 Olá! Sou o **Rafael Pereira Galhardo**, atualmente atuando como **Inspetor de Qualidade** e iniciando minha transição para a área de **programação**. Este repositório é um espaço onde compartilho meus **projetos**, **aprendizados** e experiências com as linguagens e tecnologias que venho estudando.
+<p align="center">
+  👨‍💻 Inspetor de Qualidade em transição para o mundo da Programação  
+</p>
+
+<p align="center">
+  <a href="https://github.com/shakarpg">
+    <img src="https://img.shields.io/badge/GitHub-shakarpg-181717?style=flat&logo=github" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+</p>
 
 ---
 
-## 👤 Sobre Mim
+## 👨‍🔧 Sobre Mim
 
-- **Nome:** Rafael Pereira Galhardo  
-- **Profissão Atual:** Inspetor de Qualidade  
-- **Áreas de Interesse:** Desenvolvimento Front-end e Back-end  
-- **Linguagens em Estudo:** Python, C, HTML, JavaScript, Java, Cypress  
+Olá! Sou Rafael, profissional da área de **Qualidade Industrial** e apaixonado por tecnologia. Estou me especializando em **desenvolvimento de software**, buscando constantemente desafios que me ajudem a crescer como desenvolvedor e contribuir com soluções criativas.
 
 ---
 
 ## 🎯 Objetivo
 
-Atualmente busco **oportunidades de estágio** para aplicar meus conhecimentos em projetos reais, desenvolver habilidades práticas e continuar crescendo na área de tecnologia. Estou motivado a colaborar com equipes, aprender continuamente e evoluir como desenvolvedor.
+Atualmente em transição de carreira, busco **oportunidades de estágio** para aplicar meus conhecimentos em **projetos reais**, colaborar em equipe, e evoluir tecnicamente no ecossistema de desenvolvimento.
 
 ---
 
-## 🛠️ Tecnologias
+## 💡 Habilidades em Desenvolvimento
 
-### Front-end
-- HTML
-- CSS
+### ⚙️ Back-End:
+- Python 🐍
+- Java ☕
+- C 🔧
+
+### 🎨 Front-End:
+- HTML5
+- CSS3
 - JavaScript
 
-### Back-end
-- Python
-- Java
-- C
+### 🧪 Testes:
+- Cypress (testes automatizados)
 
 ---
 
-## 🎓 Formação e Bootcamps Relevantes
+## 📘 Formação & Bootcamps
 
-**Bootcamps – Digital Innovation One (DIO):**
-- **GitHub Copilot para Programadores**  
-  Aplicações práticas de IA no auxílio ao desenvolvimento de software com GitHub Copilot.
+**📚 Digital Innovation One (DIO):**
+- 🚀 *GitHub Copilot para Programadores*  
+  Aplicações de IA com Copilot no desenvolvimento de software.
 
-- **Bootcamp Suzano Python Developer**  
-  Fundamentos de Python, estruturas de dados e desenvolvimento backend.
+- 🐍 *Bootcamp Suzano Python Developer*  
+  Fundamentos de Python, estruturas de dados e backend.
 
-- **Prompts Inteligentes com IA – Microsoft**  
-  Criação de prompts otimizados para ferramentas baseadas em inteligência artificial.
+- 🤖 *Prompts Inteligentes com IA – Microsoft*  
+  Técnicas de criação de prompts otimizados.
 
-- **Microsoft Azure: Explorando a Nuvem**  
-  Conceitos de computação em nuvem, regiões do Azure, modelos IaaS, PaaS, SaaS e provisionamento de máquinas virtuais.
+- ☁️ *Microsoft Azure: Explorando a Nuvem*  
+  Conceitos de cloud computing, IaaS, PaaS, SaaS e Azure.
 
-- **Semana Week – Criação de Sites**  
-  Práticas de desenvolvimento web com HTML, CSS e ferramentas modernas de front-end.
+- 🌐 *Semana Week – Criação de Sites*  
+  Projetos com HTML/CSS e ferramentas de front-end modernas.
+
+- 🧠 *SAGVENAGO – Lógica de Programação pela DIO*  
+  Fundamentos de lógica, algoritmos e pensamento computacional.
+
+- 💼 *Santander 2025 – Back-End com Java*  
+  Desenvolvimento back-end com foco em Java, Spring e APIs REST.
 
 ---
 
-Fique à vontade para explorar meus projetos, contribuir com feedbacks ou colaborações. Estou empolgado para aprender e evoluir junto com a comunidade! 🚀
+## 📫 Contato
 
+- GitHub: [shakarpg](https://github.com/shakarpg)
+- Email: rafaelpereiragalhardo@gmail.com
 
-Criação de Sites – Semana Week – Desenvolvimento web com HTML, CSS e ferramentas modernas.
 ---
+
+> _“Aprender é o primeiro passo para transformar o mundo ao nosso redor.”_  
+> — Rafael Pereira Galhardo
+
