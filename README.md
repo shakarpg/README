@@ -18,68 +18,29 @@
 
 ---
 
-## 👨‍🔧 Sobre Mim
+# Olá, eu sou o Rafael Pereira 👋
 
-Olá! Sou Rafael, profissional da área de **Qualidade Industrial** e apaixonado por tecnologia. Estou me especializando em **desenvolvimento de software**, buscando constantemente desafios que me ajudem a crescer como desenvolvedor e contribuir com soluções criativas.
+Sou iniciante na área de programação e estou em constante evolução para me tornar desenvolvedor. Aqui no GitHub, compartilho meus projetos, aprendizados e experiências enquanto exploro diversas linguagens e tecnologias.
 
----
+## Tecnologias que estou estudando e praticando
 
-## 🎯 Objetivo
+- **Linguagens:** Python, Java, JavaScript, HTML, CSS
+- **Frameworks:** .NET, Spring Boot
+- **Ferramentas:** VSCode, IntelliJ IDEA, Maven
+- **Cloud/IA:** Azure, AWS, Inteligência Artificial
+- **APIs:** REST e RESTful
 
-Atualmente em transição de carreira, busco **oportunidades de estágio** para aplicar meus conhecimentos em **projetos reais**, colaborar em equipe, e evoluir tecnicamente no ecossistema de desenvolvimento.
+## Principais projetos públicos
 
----
+- [controle-financeiro-poo](https://github.com/shakarpg/controle-financeiro-poo) — Projeto de controle financeiro em Programação Orientada a Objetos
+- [README](https://github.com/shakarpg/README) — Espaço para compartilhar meus projetos e aprendizados enquanto exploro novas linguagens
 
-## 💡 Habilidades em Desenvolvimento
+Veja todos os meus projetos em [github.com/shakarpg](https://github.com/shakarpg)
 
-### ⚙️ Back-End:
-- Python 🐍
-- Java ☕
-- C 🔧
+## Sobre mim
 
-### 🎨 Front-End:
-- HTML5
-- CSS3
-- JavaScript
+- 🎮 Interesses: Jogos online, videogames, tecnologia, programação, filmes, animes e séries
+- 💼 Profissional com foco em evolução e aprendizado contínuo
+- 🌐 Também estou presente no [LinkedIn](https://linkedin.com/in/rpg2011)
 
-### 🧪 Testes:
-- Cypress (testes automatizados)
-
----
-
-## 📘 Formação & Bootcamps
-
-**📚 Digital Innovation One (DIO):**
-- 🚀 *GitHub Copilot para Programadores*  
-  Aplicações de IA com Copilot no desenvolvimento de software.
-
-- 🐍 *Bootcamp Suzano Python Developer*  
-  Fundamentos de Python, estruturas de dados e backend.
-
-- 🤖 *Prompts Inteligentes com IA – Microsoft*  
-  Técnicas de criação de prompts otimizados.
-
-- ☁️ *Microsoft Azure: Explorando a Nuvem*  
-  Conceitos de cloud computing, IaaS, PaaS, SaaS e Azure.
-
-- 🌐 *Semana Week – Criação de Sites*  
-  Projetos com HTML/CSS e ferramentas de front-end modernas.
-
-- 🧠 *SAGVENAGO – Lógica de Programação pela DIO*  
-  Fundamentos de lógica, algoritmos e pensamento computacional.
-
-- 💼 *Santander 2025 – Back-End com Java*  
-  Desenvolvimento back-end com foco em Java, Spring e APIs REST.
-
----
-
-## 📫 Contato
-
-- GitHub: [shakarpg](https://github.com/shakarpg)
-- Email: rafaelpereiragalhardo@gmail.com
-
----
-
-> _“Aprender é o primeiro passo para transformar o mundo ao nosso redor.”_  
-> — Rafael Pereira Galhardo
-
+Estou aberto para colaborações, networking e oportunidades para crescer profissionalmente 🚀
