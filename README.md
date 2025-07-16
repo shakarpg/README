@@ -1,5 +1,10 @@
 <h1 align="center">Rafael Pereira Galhardo</h1>
 
+<p align="center"><strong>
+Apaixonado por tecnologia e em transição de carreira, busco minha primeira oportunidade como desenvolvedor.<br>
+Tenho facilidade para aprender, gosto de desafios e estou sempre aberto a novas experiências!
+</strong></p>
+
 <p align="center">
   👨‍💻 Inspetor de Qualidade em transição para o mundo da Programação  
 </p>
@@ -18,19 +23,40 @@
 
 ---
 
-# Olá, eu sou o Rafael Pereira 👋
+## 🚀 Tecnologias & Ferramentas
 
-Sou iniciante na área de programação e estou em constante evolução para me tornar desenvolvedor. Aqui no GitHub, compartilho meus projetos, aprendizados e experiências enquanto exploro diversas linguagens e tecnologias.
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellij-idea)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST-02569B?style=flat&logo=rest&logoColor=white)
+![Inteligência Artificial](https://img.shields.io/badge/AI-ff9900?style=flat&logo=ai&logoColor=white)
 
-## Tecnologias que estou estudando e praticando
+---
 
-- **Linguagens:** Python, Java, JavaScript, HTML, CSS
-- **Frameworks:** .NET, Spring Boot
-- **Ferramentas:** VSCode, IntelliJ IDEA, Maven
-- **Cloud/IA:** Azure, AWS, Inteligência Artificial
-- **APIs:** REST e RESTful
+## 📜 Certificados & Conquistas
 
-## Principais projetos públicos
+- Formação Santander Java Developer 2025- DIO
+- Formação Microsoft Azure 2025 - DIO
+- Outras trilhas e bootcamps na DIO, Digital Innovation One
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shakarpg&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakarpg&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🗂️ Todos os meus projetos públicos
 
 - [README](https://github.com/shakarpg/README)
 - [spring-microservices-app](https://github.com/shakarpg/spring-microservices-app)
@@ -79,7 +105,7 @@ Sou iniciante na área de programação e estou em constante evolução para me 
 - [dio-bd-relacional](https://github.com/shakarpg/dio-bd-relacional) (Fork)
 - [cypress-basico-v2](https://github.com/shakarpg/cypress-basico-v2) (Fork)
 
-> _Os projetos marcados como **(Fork)** foram criados a partir de outros repositórios para estudo, colaboração ou adaptação._
+> _Projetos marcados como **(Fork)** foram criados a partir de outros repositórios para estudo, colaboração ou adaptação._
 
 ---
 
@@ -89,4 +115,9 @@ Sou iniciante na área de programação e estou em constante evolução para me 
 - 💼 Profissional com foco em evolução e aprendizado contínuo
 - 🌐 Também estou presente no [LinkedIn](https://linkedin.com/in/rpg2011)
 
-Estou aberto para colaborações, networking e oportunidades para crescer profissionalmente 🚀
+---
+
+<p align="center"><strong>
+📬 Vamos conversar? Estou aberto para entrevistas, bate-papos e oportunidades!<br>
+Entre em contato pelo <a href="mailto:rafaelpereiragalhardo@gmail.com">e-mail</a>, <a href="https://linkedin.com/in/rpg2011">LinkedIn</a> ou aqui mesmo no GitHub.
+</strong></p>
