@@ -43,9 +43,7 @@ Bem-vindo ao meu GitHub! Sou um **Desenvolvedor Full Stack** apaixonado, em uma 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakarpg&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=shakarpg&theme=tokyonight&hide_border=false&border_radius=10" alt="GitHub Streak" />
-</p>
+
 
 ---
 
